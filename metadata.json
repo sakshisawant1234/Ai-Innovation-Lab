@@ -1,0 +1,6 @@
+{
+  "name": "AI Innovation Lab",
+  "description": "An end-to-end AI-powered innovation platform to generate, evaluate, architect, plan, and compare cutting-edge software, IoT, ML, Blockchain, and AI projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
